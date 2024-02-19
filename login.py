@@ -1,1 +1,1 @@
-print("login v2")
+print("Inicio de sesion... En este proyecto creo que no es necesario. Al menos de momento")
